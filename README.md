@@ -2,10 +2,9 @@
 Angular Starter application pre-configured with ngMaterial, ui-router, a webpack build process, and dev server
 
 ## Clone 
-`git clone --depth=1 git@github.com:kevinmirc/angular-material-starter.git`
-
-ng 1.6.1
-ng material
-ui-router
-webpack
-webpack-dev-server
+clone into current dir:
+`git clone git@github.com:kevinmirc/angular-material-starter.git .`
+delete git history:
+`rm -rf .git`
+create new git repo:
+`git init`
